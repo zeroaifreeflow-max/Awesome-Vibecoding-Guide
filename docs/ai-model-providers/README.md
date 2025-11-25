@@ -6,39 +6,39 @@ A curated selection of AI model providers and services optimized for vibecoding 
 
 ## Primary AI Providers
 
-### Core LLM Services
-- **[GLM Coding Plan](./glm-coding-plan.md)** — Main LLM provider for coding assistance
-- **[Synthetic.new](./synthetic-new.md)** — Privacy-first provider with extensive model library and competitive pricing
+### My Dual-Provider Workflow
 
-### Choosing Between GLM and Synthetic
+I use both providers together for maximum effectiveness:
 
-> **Pricing Note:** Always check current pricing at [GLM Pricing](https://z.ai/subscribe?ic=CUEFJ9ALMX) and [Synthetic Pricing](https://synthetic.new/?referral=IDyp75aoQpW9YFt) as prices may change.
+1. **[GLM Coding Plan](./glm-coding-plan.md)** — Primary daily driver
+   - GLM-4.6 for most everyday coding tasks
+   - Reliable, fast, cost-effective
+   - [Sign up with 10% discount](https://z.ai/subscribe?ic=CUEFJ9ALMX)
 
-**Choose GLM Lite ($3/month) if:**
-- You're most developers (this is the sweet spot for majority)
-- You're on a tight budget but want professional AI assistance
-- You have moderate AI usage patterns
-- You want the most cost-effective option
-- **Recommended starting point for most vibecoding workflows**
+2. **[Synthetic.new](./synthetic-new.md)** — Secondary for model flexibility
+   - Switch to MiniMax when you want variety or faster responses
+   - Switch to Kimi thinking for complex reasoning problems
+   - [First month $10](https://synthetic.new/?referral=IDyp75aoQpW9YFt)
 
-**Choose GLM Pro ($15/month) if:**
-- You're a heavy user working in intensive 5-hour sessions
-- You need 600 prompts within 5h windows
-- You consistently hit GLM Lite rate limits
-- You work on multiple projects simultaneously with high AI demands
+### Why Two Providers?
 
-**Choose Synthetic Standard ($20/month) if:**
-- You have a moderate budget (~$20/month)
-- You value model flexibility and want access to 20+ frontier models
-- Privacy is a top concern for your code
-- You have moderately heavy usage spread across 5-hour windows (135 messages/5h)
-- You want 3x more messages than Claude's $20 plan
+GLM gives you a reliable, cost-effective default. Synthetic gives you flexibility when you need different models:
 
-**Budget Summary:**
-- **$0-3/month**: Qwen CLI (free) or GLM Lite ($3) - optimal for most users
-- **$3-15/month**: GLM Lite ($3) for majority, GLM Pro ($15) only if you're a heavy user
-- **$20/month**: Synthetic Standard if you need model variety and privacy focus
-- **$15-20 sweet spot**: GLM Pro ($15) for heavy 5h usage OR Synthetic Standard ($20) for model flexibility
+- **Stuck on a problem?** Switch to Kimi thinking mode for deeper reasoning
+- **Want a fresh perspective?** Try MiniMax for a different approach
+- **Budget-conscious?** Stay on GLM for routine work
+
+### Budget Guide
+
+| Budget | Recommendation |
+|--------|----------------|
+| **$3-6/month** | GLM Lite — best value, sufficient for most users |
+| **$15-30/month** | GLM Pro — for heavy usage (600 prompts/5h) |
+| **$20/month (model variety)** | Synthetic Standard — when you need MiniMax/Kimi |
+| **$23-50/month (dual setup)** | GLM + Synthetic — optimal flexibility |
+| **$100/month (premium)** | Claude Code Max5 — if budget isn't a constraint |
+
+See the [detailed provider comparison](./choosing-your-provider.md) for comprehensive breakdown.
 
 ## Honorable Mentions
 Services I've used but don't recommend for primary development work:

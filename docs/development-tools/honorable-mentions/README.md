@@ -2,6 +2,10 @@
 
 This section highlights tools that offer excellent value for developers seeking free or cost-effective alternatives to implement vibecoding workflows. While these tools may not have the same polish or feature completeness as my main stack, they provide solid foundations for getting started without financial commitment.
 
+## IDE-Native AI Assistants
+
+- **[Kilo Code](kilocode.md)** - Versatile multi-platform AI assistant with intelligent modes (Code/Architect/Ask/Debug/Orchestrator), flexible pricing (free/PAYG/BYOK), and dual support (VSCode + CLI). Excellent for developers who prefer IDE-centric workflows with visual feedback.
+
 ## Free & Cost-Effective Tools
 
 - **[Qwen Coder / Qwen CLI](qwen-coder.md)** - Alibaba's free, open-source coding assistant with MCP support

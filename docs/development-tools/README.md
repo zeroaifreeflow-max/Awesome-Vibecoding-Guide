@@ -6,13 +6,12 @@ A comprehensive collection of development tools optimized for vibecoding product
 
 ### Recommended Tools
 Development tools optimized for vibecoding productivity:
+- **[Claude Code CLI](./recommended-tools/claude-code-cli.md)** — Primary coding agent with plan mode, multi-agent architecture, and global plan persistence
+- **[Droid CLI](./recommended-tools/droid-cli.md)** — Spec-driven development agent for large projects and team coordination
 - **[Zed.dev](./recommended-tools/zed.md)** — Primary IDE for fast, modern development
 - **[Windsurf](./recommended-tools/windsurf.md)** — High-speed AI IDE with 950 tok/s SWE-1.5 agent
-- **[Droid CLI](./recommended-tools/droid-cli.md)** — Main coding agent with BYOK support
-- **[Kilo Code](./recommended-tools/kilocode.md)** — Multi-platform AI assistant with intelligent modes, BYOK, and dual support (VSCode + CLI)
 - **[Clavix](./recommended-tools/clavix.md)** — CLEAR-based PRD generator with seamless task list creation
 - **[Warp](./recommended-tools/warp.md)** — Modern terminal for enhanced productivity
-- **[Claude Code CLI](./recommended-tools/claude-code-cli.md)** — Backup AI coding assistant
 
 ### MCP Servers
 Model Context Protocol servers for enhanced capabilities:
@@ -33,7 +32,7 @@ Model Context Protocol servers for enhanced capabilities:
 ## Free & Alternative Options
 
 - **[Honorable Mentions](./honorable-mentions/README.md)** — Free alternatives and cost-effective options
-  - [Qwen Coder](./honorable-mentions/qwen-coder.md) • [Gemini CLI](./honorable-mentions/gemini-cli.md) • [AmpCode](./honorable-mentions/ampcode.md) • [TRAE](./honorable-mentions/trae.md)
+  - [Kilo Code](./honorable-mentions/kilocode.md) • [Qwen Coder](./honorable-mentions/qwen-coder.md) • [Gemini CLI](./honorable-mentions/gemini-cli.md) • [AmpCode](./honorable-mentions/ampcode.md) • [TRAE](./honorable-mentions/trae.md)
 
 ## Quick Start Guide
 
@@ -46,12 +45,13 @@ This tool stack is designed for **Phase 0-2** of the vibecoding workflow:
 ### 1. Essential Setup (Phase 0)
 Start with the core stack for optimal vibecoding experience:
 1. Install [Zed](./recommended-tools/zed.md) as your primary IDE
-2. Set up [Droid CLI](./recommended-tools/droid-cli.md) with your preferred LLM provider
+2. Set up [Claude Code CLI](./recommended-tools/claude-code-cli.md) as your primary coding agent
 3. Configure [Context7 MCP](./mcp-servers/context7-mcp.md) for documentation access
 4. Add [DevTools MCP](./mcp-servers/devtools-mcp.md) for testing capabilities
 5. Install [Sequential Thinking MCP](./mcp-servers/sequential-thinking-mcp.md) for enhanced problem-solving
 6. Set up [Task Manager MCP](./mcp-servers/task-manager-mcp.md) for persistent workflow management
 7. Add [Shadcn MCP](./mcp-servers/shadcn-mcp.md) for professional UI component access
+8. (Optional) Install [Droid CLI](./recommended-tools/droid-cli.md) for spec-driven projects
 
 ### 2. Configuration
 - Configure API keys for your preferred LLM providers
@@ -64,7 +64,8 @@ Start with the core stack for optimal vibecoding experience:
 ### 3. Workflow Integration
 These tools are designed to work together seamlessly:
 - Use Zed for editing and development
-- Leverage Droid CLI for AI-assisted coding
+- Leverage Claude Code CLI for AI-assisted coding (primary agent)
+- Use Droid CLI for spec-driven projects and team coordination
 - Access documentation via Context7 MCP
 - Test and debug with DevTools MCP
 - Enhance problem-solving with Sequential Thinking MCP

@@ -15,6 +15,24 @@ The AI provider landscape has matured significantly, offering options from budge
 
 ---
 
+## My Dual-Provider Workflow
+
+I use a two-provider setup that balances cost-effectiveness with flexibility:
+
+1. **[GLM Coding Plan](glm-coding-plan.md)** — Primary daily driver
+   - GLM-4.6 for most everyday coding tasks
+   - Reliable, fast, cost-effective
+   - [Sign up with 10% discount](https://z.ai/subscribe?ic=CUEFJ9ALMX)
+
+2. **[Synthetic.new](synthetic-new.md)** — Secondary for model flexibility
+   - Switch to MiniMax for routine variety or faster responses
+   - Switch to Kimi (thinking mode) for complex reasoning problems
+   - [First month $10](https://synthetic.new/?referral=IDyp75aoQpW9YFt)
+
+This dual-provider approach gives you the best of both worlds: a reliable default (GLM) and flexibility when you need different models (Synthetic).
+
+---
+
 ## Quick Comparison Matrix
 
 | Provider | Monthly Cost | Rate Limits | Privacy | Model Access | Best For |
@@ -32,6 +50,48 @@ The AI provider landscape has matured significantly, offering options from budge
 
 \* First purchase discount available
 \*\* Despite similar price point, tiny quota and weekly limits make it poor value vs alternatives
+
+---
+
+## Model Selection Strategy
+
+When you have access to multiple models (via Synthetic.new or multiple providers), here's how to choose:
+
+### GLM-4.6 (Primary — via GLM Coding Plan)
+**Best for:** Most everyday coding tasks, general development, routine work
+
+- Your default choice for most tasks
+- Reliable, fast, well-tested for vibecoding workflows
+- Cost-effective with generous rate limits
+- Excellent for: Feature development, refactoring, debugging, code review
+
+### MiniMax (via Synthetic.new)
+**Best for:** When you want variety or faster responses
+
+- Good alternative when you want a different perspective
+- Fast response times
+- Works well for: Quick iterations, brainstorming alternatives, getting fresh takes
+
+### Kimi Thinking Mode (via Synthetic.new)
+**Best for:** Complex problems requiring deep reasoning
+
+- Extended thinking capabilities for hard problems
+- Better at: Architecture decisions, complex algorithms, multi-step reasoning
+- Use when GLM's initial response isn't quite right
+- Ideal for: Debugging tricky issues, system design, optimization problems
+
+### When to Switch Models
+
+| Situation | Model Choice |
+|-----------|-------------|
+| Routine coding, feature work | GLM-4.6 (default) |
+| Need a fresh perspective | MiniMax |
+| Complex architecture decisions | Kimi thinking |
+| Debugging hard problems | Kimi thinking |
+| Quick iterations and brainstorming | MiniMax |
+| Cost-conscious development | GLM-4.6 |
+
+**Workflow tip:** Start with GLM-4.6. If you're not getting the results you need after 2-3 attempts, switch to Kimi thinking for complex problems or MiniMax for a fresh perspective.
 
 ---
 
@@ -144,24 +204,37 @@ The AI provider landscape has matured significantly, offering options from budge
 - **Choose Synthetic** if: Privacy matters, want model flexibility, prefer speed
 - **Choose GLM Pro** if: Want best value, don't need multiple models, prefer simplicity
 
-#### Honorable Mention: Claude Pro Subscription (~$20)*
+#### Claude Pro / Claude Code Max (~$20-100/month)
 
-**NOT RECOMMENDED** despite being at similar price point.
+**The Premium Option — Worth Considering for High Budgets**
 
-**Why to avoid:**
-- Tiny quota compared to Synthetic/GLM at same price
+With the release of Claude Opus 4.5 and Sonnet 4.5, Claude models are genuinely SOTA (state-of-the-art) for agentic coding. However, cost matters:
+
+**If you have ~$100/month to spend:**
+- **Claude Code Max5 ($100/month)** is genuinely the top-tier option
+- Access to Opus 4.5 — current best-in-class for complex agentic tasks
+- Native Claude Code CLI integration without provider switching
+- If money isn't a constraint, this is the "just works" premium choice
+
+**If you have ~$20/month to spend:**
+- Claude Pro subscription offers less value than GLM/Synthetic at similar price
+- Tiny quota compared to alternatives
 - Weekly rate limits (vs 5h rolling window)
-- Insufficient for serious development work
-- Poor value-to-price ratio
+- Better to use Claude Code CLI with GLM or Synthetic as provider
 
-**When it might make sense:**
-- You desperately need Claude's reasoning for complex architecture
-- You're doing occasional prototyping only
-- Budget doesn't matter and you want "the best"
+**Who should consider Claude subscriptions:**
+- Developers with $100+ monthly budgets who want the absolute best
+- Those who value native integration over cost optimization
+- Users working on complex architecture problems where Opus 4.5 shines
 
-See [detailed analysis](honorable-mentions/claude-subscription.md) for why even the author dropped it in favor of GLM.
+**Who should skip it:**
+- Hobbyists — spending $100/month on a hobby project makes no sense when GLM can deliver the same results
+- Budget-conscious professionals — GLM/Kimi/MiniMax can deliver production projects at a fraction of the cost
+- Most vibecoding practitioners — proper technique matters more than model choice
 
-**Better approach:** Use Claude Code CLI tool with GLM as provider instead of Claude subscription.
+See [detailed analysis](honorable-mentions/claude-subscription.md) for comprehensive breakdown.
+
+**Bottom line:** If you're not constrained by budget and want the best, Claude Code Max5 at $100/month is genuinely excellent. For everyone else, the dual-provider workflow (GLM + Synthetic) delivers comparable results at 70%+ lower cost.
 
 ---
 
@@ -388,7 +461,7 @@ All providers work with standard MCP servers through their APIs.
 5. **Best for Power Users:** Synthetic Pro ($60) — better than GLM Max at same price
 
 **What to Avoid:**
-- Claude Pro subscription (poor value at $20 vs alternatives)
+- Claude Pro at $20/month (poor value vs GLM/Synthetic at same price — consider Max5 at $100 if budget allows)
 - Chutes.ai (too unreliable)
 - Using nanoGPT for sensitive code (privacy concerns)
 - GLM Max unless you genuinely need 2,400 prompts/5h (overkill)

@@ -84,7 +84,7 @@ Detailed comparison of AI coding assistants:
 |---------|----------|----------------|-------------|--------|
 | **Monthly Cost** | $0 | $3 / $15 | $200 | $20 |
 | **Annual Cost** | $0 | $36 / $180 | $2,400 | $240 |
-| **Model** | Qwen 2.5 72B | GLM-4-Plus | Claude Sonnet 4 | Multiple |
+| **Model** | Qwen 2.5 72B | GLM-4.6 | Claude Sonnet 4 | Multiple |
 | **Local/Remote** | Remote (Factory API) | Remote (GLM API) | Remote (Anthropic) | Remote |
 | **Context Window** | 128k tokens | 128k tokens | 200k tokens | Varies |
 | **Code Quality** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
@@ -157,7 +157,7 @@ GLM offers multiple tiers to fit different usage patterns. **For most developers
 
 **Pros:**
 - ✅ Very affordable ($3/mo - less than a coffee)
-- ✅ Excellent model (GLM-4-Plus)
+- ✅ Excellent model (GLM-4.6)
 - ✅ Sufficient for most development workflows
 - ✅ Reliable API
 - ✅ Large context window
@@ -183,7 +183,7 @@ GLM offers multiple tiers to fit different usage patterns. **For most developers
 
 **Pros:**
 - ✅ High rate limits (600 prompts/5h)
-- ✅ Same excellent GLM-4-Plus model
+- ✅ Same excellent GLM-4.6 model
 - ✅ Reliable for intensive workloads
 - ✅ Still affordable compared to alternatives
 
@@ -321,7 +321,7 @@ Where to get API access for AI models:
 
 | Provider | Models | Pricing | Free Tier | Best For |
 |----------|--------|---------|-----------|----------|
-| **Factory AI** | GLM-4-Plus, Qwen 2.5 | Pay-as-you-go | ✅ Yes (generous) | Budget developers |
+| **Factory AI** | GLM-4.6, Qwen 2.5 | Pay-as-you-go | ✅ Yes (generous) | Budget developers |
 | **Synthetic AI** | Multiple SOTA models | Pay-as-you-go | ✅ Yes (moderate) | Multi-model access |
 | **GLM Direct** | GLM series | Subscription $15/mo | ❌ No | Direct GLM access |
 | **Anthropic** | Claude 3.5/4 | Pay-as-you-go | ✅ Yes (limited) | Claude access |
@@ -332,7 +332,7 @@ Where to get API access for AI models:
 **Website:** https://factory.ai
 
 **Models available:**
-- GLM-4-Plus (Chinese, excellent quality)
+- GLM-4.6 (Chinese, excellent quality)
 - Qwen 2.5 72B (Chinese, powerful)
 - DeepSeek V2 (Chinese, cost-effective)
 - And more
@@ -397,7 +397,7 @@ Where to get API access for AI models:
 **Website:** https://open.bigmodel.cn
 
 **Models:**
-- GLM-4-Plus (flagship model)
+- GLM-4.6 (flagship model)
 - GLM-4 (standard model)
 - GLM-3-Turbo (faster, cheaper)
 
@@ -802,7 +802,7 @@ AI: [Searches web, reads results, summarizes findings]
 - Anthropic support (rely on community)
 
 **What you keep:**
-- High-quality code generation (GLM-4-Plus is excellent)
+- High-quality code generation (GLM-4.6 is excellent)
 - Multi-file editing (via Cline)
 - File search and terminal access
 - Git operations

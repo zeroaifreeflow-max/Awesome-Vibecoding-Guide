@@ -1,10 +1,24 @@
-# Droid CLI — The Ultimate Coding Agent 🤖
+# Droid CLI — Spec-Driven Development Agent 🤖
 
 > **Get Started with Droid CLI:** [Sign up here with my referral link](https://app.factory.ai/r/VAH64803) to support the guide and get access to this powerful coding assistant.
 
-## Why Droid CLI is a Game-Changer
+## When to Choose Droid over Claude Code
 
-Droid CLI isn't just another coding assistant—it's a comprehensive development environment that combines intelligent planning with safe, controlled execution. It stands out with features that fundamentally change how you approach software development.
+While [Claude Code CLI](./claude-code-cli.md) is my primary daily driver for most tasks, **Droid CLI shines when you need structured, spec-driven development**:
+
+| Choose Droid When... | Why |
+|---------------------|-----|
+| Large projects with formal specifications | Full spec-driven phases with interactive editing |
+| Team coordination requiring documented plans | Plan persistence and team collaboration features |
+| Enterprise work with compliance requirements | Permission system prevents unauthorized changes |
+| Projects needing code review workflows | Built-in `/review` command with multiple modes |
+| Complex multi-phase implementations | Structured phases ensure nothing gets missed |
+
+**Rule of thumb:** If you need formal specs, phases, and structured team workflows, Droid is the better choice. For quick iterations and everyday coding, stick with Claude Code.
+
+## Why Droid CLI Excels at Structured Development
+
+Droid CLI isn't just another coding assistant—it's a comprehensive development environment that combines intelligent planning with safe, controlled execution. It stands out with features that fundamentally change how you approach large-scale software development.
 
 ## 🎯 Killer Feature: Autonomous Spec Generation
 
@@ -175,15 +189,18 @@ Don't accept the first generated plan. Ask for modifications, add your constrain
 
 ## 🎯 The Bottom Line
 
-Droid CLI represents a fundamental shift in how we interact with AI for software development. Instead of being a simple code completion tool, it becomes a development partner that:
+Droid CLI excels at structured, spec-driven development where formal planning and team coordination matter. It becomes a development partner that:
 
-- **Thinks before it acts** (Planning mode)
+- **Thinks before it acts** (Planning mode with phases)
 - **Respects your boundaries** (Permission system)
 - **Learns from your project** (Context management)
 - **Executes with precision** (Agent coordination)
+- **Enables code review** (Built-in `/review` command)
 
-The combination of autonomous planning and safety-first execution makes Droid CLI not just another tool, but a complete development environment that can replace multiple tools in your workflow while providing unprecedented control and safety.
+**When to use Droid:** Large projects, team coordination, enterprise requirements, formal specifications, code review workflows.
 
-See also: [OpenSpec CLI](./openspec-cli.md), [DevTools MCP](../mcp-servers/devtools-mcp.md)
+**When to use Claude Code instead:** Quick iterations, single-file changes, everyday coding, exploring codebases. See [Claude Code CLI](./claude-code-cli.md) for the primary daily driver.
+
+See also: [Claude Code CLI](./claude-code-cli.md), [DevTools MCP](../mcp-servers/devtools-mcp.md)
 
 Back: [Tools & Tech Stack](../README.md)

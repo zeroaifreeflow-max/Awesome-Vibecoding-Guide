@@ -30,18 +30,19 @@ Pick the setup that matches your workflow preferences:
 
 #### Option B: CLI-Based Development
 
-**Droid** (Recommended)
-- Alternative CLI coding agent
-- Multi-model support
-- Good for advanced users
-- Customizable workflows
-
-**Claude Code CLI**
+**Claude Code CLI** (Primary - my choice)
 - Official Anthropic CLI tool
-- Direct Claude integration
-- Terminal-based workflow
-- Excellent for automation and scripting
+- Improved plan mode with global persistence
+- Multi-agent architecture for complex tasks
+- Explore subagent for efficient codebase navigation
+- Terminal-based workflow, excellent for automation
 - Works with your preferred text editor
+
+**Droid CLI** (Secondary - for spec-driven projects)
+- Spec-driven development with phases
+- Built-in `/review` command for code review
+- Best for large projects with formal specifications
+- Good for team coordination workflows
 
 ### 2. Set Up MCP Servers
 

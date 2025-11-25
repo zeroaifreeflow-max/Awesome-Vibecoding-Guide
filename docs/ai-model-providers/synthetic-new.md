@@ -1,6 +1,22 @@
-# Synthetic.new
+# Synthetic.new — Secondary Provider for Model Flexibility
 
 Synthetic.new is a privacy-first AI model provider offering access to frontier open-source models with competitive pricing and impressive performance.
+
+## My Role for Synthetic.new
+
+In my dual-provider workflow, **Synthetic.new is my secondary provider** that I switch to when I need model flexibility:
+
+- **MiniMax**: When I want variety or faster responses
+- **Kimi thinking**: When I'm stuck on complex problems requiring deep reasoning
+- **Default (GLM-4.6)**: I use [GLM Coding Plan](./glm-coding-plan.md) for everyday work
+
+**When to switch to Synthetic:**
+- GLM isn't giving the results you need after 2-3 attempts
+- You want a different model's perspective on a problem
+- You're working on complex architecture decisions (Kimi thinking)
+- You need faster responses for quick iterations (MiniMax)
+
+[Sign up with my referral for $10 first month](https://synthetic.new/?referral=IDyp75aoQpW9YFt)
 
 ## Pricing Plans
 
