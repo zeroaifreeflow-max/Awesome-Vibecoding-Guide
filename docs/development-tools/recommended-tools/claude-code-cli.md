@@ -34,23 +34,22 @@ Claude Code's recent releases (v2.0.28+) introduced features that fundamentally 
 
 ## Integration with Providers
 
-Claude Code CLI works seamlessly with cost-effective providers:
+Claude Code CLI works with cost-effective providers by overriding the Anthropic API endpoint at the system level.
 
 **Primary Setup (GLM Coding Plan):**
-```bash
-# Configure for GLM-4.6 — reliable daily driver
-claude config set provider glm
-claude config set model glm-4.6
-```
+
+GLM provides an OpenAI-compatible API that works with Claude Code CLI. See the official setup guide:
+- **[GLM + Claude Code Integration Guide](https://docs.z.ai/devpack/tool/claude)**
 
 **Secondary Setup (Synthetic.new):**
-```bash
-# Switch to Synthetic when you need MiniMax or Kimi
-claude config set provider synthetic
-claude config set model minimax-m2  # or kimi-thinking
-```
 
-The BYOK (Bring Your Own Key) support means you're not locked into expensive subscriptions — use your preferred provider at their rates.
+Synthetic.new also provides Claude Code compatibility. See:
+- **[Synthetic + Claude Code Integration Guide](https://dev.synthetic.new/docs/guides/claude-code)**
+
+**How it works:**
+Both providers require overriding the `ANTHROPIC_BASE_URL` and `ANTHROPIC_API_KEY` environment variables at the system level. The documentation above walks through the exact setup steps.
+
+**Note:** You'll need to reconfigure environment variables when switching between providers (GLM ↔ Synthetic).
 
 ## When to Use Claude Code vs Droid
 
@@ -97,14 +96,30 @@ claude "Run tests AND check for linting issues"
 ```
 
 ### 5. Configure for Your Workflow
-Set up provider switching for different needs:
-```bash
-# GLM for routine work (cost-effective)
-alias cc-glm="claude --provider glm"
 
-# Synthetic for when you need Kimi thinking
-alias cc-kimi="claude --provider synthetic --model kimi-thinking"
+Provider switching requires updating environment variables. A simple approach:
+
+```bash
+# In your .zshrc or .bashrc, create functions to switch providers:
+
+# Switch to GLM (primary daily driver)
+glm-mode() {
+  export ANTHROPIC_BASE_URL="https://api.z.ai/v1"  # Check GLM docs for exact URL
+  export ANTHROPIC_API_KEY="your-glm-api-key"
+  echo "Switched to GLM"
+}
+
+# Switch to Synthetic (for MiniMax/Kimi)
+synthetic-mode() {
+  export ANTHROPIC_BASE_URL="https://api.synthetic.new/v1"  # Check Synthetic docs
+  export ANTHROPIC_API_KEY="your-synthetic-api-key"
+  echo "Switched to Synthetic"
+}
 ```
+
+**Important:** Check the official integration guides for exact URLs and configuration:
+- [GLM + Claude Code](https://docs.z.ai/devpack/tool/claude)
+- [Synthetic + Claude Code](https://dev.synthetic.new/docs/guides/claude-code)
 
 ## Recent Improvements Worth Noting
 
@@ -118,15 +133,17 @@ alias cc-kimi="claude --provider synthetic --model kimi-thinking"
 
 ```bash
 # Install via npm
-npm install -g @anthropic/claude-code
+npm install -g @anthropic-ai/claude-code
 
-# Or via homebrew
-brew install claude-code
-
-# Configure your provider
-claude config set provider glm
-claude config set api-key YOUR_API_KEY
+# Verify installation
+claude --version
 ```
+
+**Provider Configuration:**
+
+To use with GLM or Synthetic instead of native Anthropic, configure environment variables as documented in:
+- [GLM + Claude Code](https://docs.z.ai/devpack/tool/claude)
+- [Synthetic + Claude Code](https://dev.synthetic.new/docs/guides/claude-code)
 
 ## The Bottom Line
 
