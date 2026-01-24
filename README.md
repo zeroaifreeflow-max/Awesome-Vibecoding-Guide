@@ -124,7 +124,7 @@ Tip: Keep context lean. Link only relevant files in your prompts and use MCPs (e
 If you've found this guide helpful and want to support my work, consider using these referral links for the tools I recommend:
 
 - **[Synthetic.new](https://synthetic.new/?referral=IDyp75aoQpW9YFt)** - Primary provider with 20+ frontier models including MiniMax M2.1. Standard plan $20/mo, Pro $60/mo
-- **[MiniMax Coding Plan](https://minimax.chat/)** - Direct MiniMax subscription for focused usage. New Year Mega Offer available — check pricing page for current discounts!
+- **[MiniMax Coding Plan](https://platform.minimax.io/subscribe/coding-plan?code=HO46LCwAJ5&source=link)** - Direct MiniMax subscription for focused usage. New Year Mega Offer available — check pricing page for current discounts!
 - **[GLM Coding Plan](https://z.ai/subscribe?ic=CUEFJ9ALMX)** - Cost-effective backup provider. Lite $3/mo, Pro $15/mo
 
 Choose Synthetic.new for model variety, or MiniMax for dedicated fast coding assistance.
