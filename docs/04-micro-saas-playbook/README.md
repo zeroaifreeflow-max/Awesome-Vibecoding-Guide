@@ -39,9 +39,10 @@ Build that for $150/month. They save money. You earn recurring revenue.
 ## Playbook Contents
 
 1. **[When to Build](when-to-build.md)** — Spotting opportunities in client work
-2. **[Scoping & Pricing](scoping-pricing.md)** — How to propose and price
-3. **[Building Tiny](building-tiny.md)** — Constraints that keep you profitable
-4. **[Client Handoff](client-handoff.md)** — Training, support, maintenance
+2. **[Finding Micro-SaaS Clients](finding-clients.md)** — Upsell strategies for existing clients
+3. **[Scoping & Pricing](scoping-pricing.md)** — How to propose and price
+4. **[Building Tiny](building-tiny.md)** — Constraints that keep you profitable
+5. **[Client Handoff](client-handoff.md)** — Training, support, maintenance
 
 ## The Economics
 

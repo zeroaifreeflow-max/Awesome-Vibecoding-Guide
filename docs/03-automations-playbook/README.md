@@ -21,9 +21,10 @@ Automations that save your clients hours of manual work:
 ## Playbook Contents
 
 1. **[Automation Offers That Sell](automation-offers.md)** — What clients actually pay for
-2. **[Delivery Playbook](delivery-playbook.md)** — Discovery, build, test, handoff
-3. **[Pricing Automations](pricing-automations.md)** — Setup fees + retainers
-4. **[Operations & Support](operations-support.md)** — Monitoring, maintenance, client training
+2. **[Finding Automation Clients](finding-clients.md)** — Targeted acquisition strategies
+3. **[Delivery Playbook](delivery-playbook.md)** — Discovery, build, test, handoff
+4. **[Pricing Automations](pricing-automations.md)** — Setup fees + retainers
+5. **[Operations & Support](operations-support.md)** — Monitoring, maintenance, client training
 
 ## Quick Stats
 

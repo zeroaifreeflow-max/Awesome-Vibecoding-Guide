@@ -39,6 +39,12 @@ This guide covers three ways to generate income with vibecoding:
 2. **Have dev experience?** → [Automations Playbook](../03-automations-playbook/README.md)
 3. **Have clients already?** → [Micro-SaaS Playbook](../04-micro-saas-playbook/README.md)
 
+## Pricing & Packaging
+
+Master the art of pricing your services:
+- [Advanced Pricing Strategies](pricing-strategies.md) — Value-based pricing, ROI calculations
+- [Packaging Models](packaging-models.md) — Tiered services, bundles, subscriptions
+
 ## Cross-Cutting Skills
 
 Regardless of which stream you choose, you'll need:
