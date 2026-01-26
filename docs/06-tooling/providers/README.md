@@ -6,7 +6,6 @@
 
 | Provider | Best For | Starting Price |
 |----------|----------|----------------|
-| **[Mistral Vibe](mistral-vibe.md)** | Devstral 2 powered, complex projects | Free tier available |
 | **[Synthetic.new](synthetic-new.md)** | Primary daily driver, 20+ models | $10/mo first month |
 | **[MiniMax](minimax-coding-plan.md)** | Dedicated MiniMax access | Check pricing page |
 | **[GLM](glm-coding-plan.md)** | Cost-effective backup | $3/mo Lite |
@@ -15,17 +14,16 @@
 
 I use multiple providers for redundancy:
 
-1. **Mistral Vibe** — Devstral 2 for complex architecture work
-2. **Synthetic.new** — Primary (MiniMax + 20 other models in one sub)
-3. **MiniMax Direct** — Backup for focused MiniMax usage
+1. **Synthetic.new** — Primary (MiniMax + 20 other models in one sub)
+2. **MiniMax Direct** — Backup for focused MiniMax usage
 4. **GLM** — Secondary backup with different model characteristics
 
 ## Budget Guide
 
 | Monthly Budget | Recommendation |
 |----------------|----------------|
-| **$0-10** | Mistral Vibe free tier + GLM Lite |
-| **$10-20** | Mistral Vibe + Synthetic Standard |
+| **$0-10** | GLM Lite |
+| **$10-20** | Synthetic Standard |
 | **$20-40** | Synthetic Pro or MiniMax Plus |
 | **$40-60** | Synthetic Pro + MiniMax backup |
 

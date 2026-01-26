@@ -15,14 +15,12 @@
 
 ### [AI Providers](providers/README.md)
 Budget-friendly model access:
-- **[Mistral Vibe](providers/mistral-vibe.md)** — Devstral 2 powered, generous free tier
 - **[Synthetic.new](providers/synthetic-new.md)** — Primary (20+ models, MiniMax included)
 - **[MiniMax](providers/minimax-coding-plan.md)** — Direct subscription option
 - **[GLM](providers/glm-coding-plan.md)** — Cost-effective backup
 
 ### [Coding Agents](coding-agents/README.md)
 Your AI coding assistants:
-- **[Mistral Vibe CLI](coding-agents/mistral-vibe-cli.md)** — Devstral 2 powered, project-aware
 - **[Claude Code CLI](coding-agents/claude-code-cli.md)** — Primary agent
 - **[AMP](coding-agents/ampcode.md)** — Free, powerful alternative
 - **[OpenCode](coding-agents/opencode.md)** — With oh-my-opencode
