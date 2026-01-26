@@ -17,11 +17,25 @@ Unlike the common narrative of "build a SaaS and get rich with vibecoding," this
 
 ## Contents
 
-1. **[The Reality Check](reality-check.md)** - What they don't tell you about making money with vibecoding
-2. **[The Business Model](the-model.md)** - Detailed breakdown of how this works
-3. **[Pricing & Economics](pricing-economics.md)** - What to charge and why
-4. **[Value Proposition](value-proposition.md)** - How to differentiate from WordPress and competition
-5. **[Getting Started](getting-started.md)** - Marketing, finding clients, and first steps
+### Getting Started
+1. **[The Reality Check](reality-check.md)** — What they don't tell you about making money with vibecoding
+2. **[The Business Model](the-model.md)** — Detailed breakdown of how this works
+3. **[Pricing & Economics](pricing-economics.md)** — What to charge and why
+4. **[Value Proposition](value-proposition.md)** — How to differentiate from WordPress and competition
+
+### Finding & Closing Clients
+5. **[Client Acquisition](client-acquisition.md)** — Prospecting, scripts, and closing deals
+6. **[Getting Started](getting-started.md)** — Marketing, finding clients, and first steps
+
+### Execution
+7. **[Delivery SOP](delivery-sop.md)** — 48-hour website delivery step-by-step
+8. **[Client Management](client-management.md)** — Managing ongoing relationships
+
+### Growth
+9. **[Upsells & Retainers](upsells-retainers.md)** — Recurring revenue opportunities
+10. **[Scaling](scaling.md)** — From 2 to 10 sites per month
+11. **[Maintenance](maintenance.md)** — Keeping sites running
+12. **[ROI Tracking](roi-tracking.md)** — Measuring your business performance
 
 ## Quick Stats
 
@@ -44,25 +58,12 @@ This is what vibecoding excels at - building exactly what's needed, nothing more
 
 ## Technical Foundation
 
-Your competitive advantage comes from delivering high-quality, modern websites. These technical guides ensure you deliver professional results:
+Your competitive advantage comes from delivering high-quality, modern websites:
 
-### Quality Justifies Premium Pricing
-- **[Quality Standards](../quality-standards/README.md)** - Accessibility, SEO, and Performance excellence
-  - [Accessibility](../quality-standards/accessibility.md) - WCAG compliance = broader reach for clients
-  - [SEO](../quality-standards/seo.md) - Better rankings = more business for clients
-  - [Performance](../quality-standards/performance.md) - Fast sites = better user experience & conversions
-
-### Cost-Effective Development
-- **[Development Tools](../development-tools/README.md)** - Professional tools on a budget
-  - [Decision Matrix](../development-tools/decision-matrix.md) - Choose tools based on ROI
-  - [Budget-Friendly Options](../development-tools/honorable-mentions/README.md) - Free and low-cost alternatives
-  - Cost tracking helps maximize your profit margins
-
-### Free, Scalable Hosting
-- **[Hosting Tools](../hosting-tools/README.md)** - Cloudflare platform guide
-  - [Cloudflare Pages](../hosting-tools/cloudflare-pages.md) - Free hosting with no bandwidth limits
-  - [Cost Comparison](../hosting-tools/README.md#cost-comparison) - Why Cloudflare beats alternatives
-  - Zero hosting costs = higher profit margins and client savings
+- **[Delivery System](../05-delivery-system/README.md)** — Workflow, quality standards, prompting
+- **[Quality Standards](../05-delivery-system/quality-standards/README.md)** — Accessibility, SEO, performance
+- **[Tooling](../06-tooling/README.md)** — Coding agents, providers, IDEs
+- **[Tech Stack](../07-tech-stack/README.md)** — Astro, Tailwind, Cloudflare hosting
 
 **Value Connection:** High technical standards → Better client results → Premium pricing → Higher income
 
