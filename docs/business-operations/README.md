@@ -13,6 +13,9 @@
 └─────────────────────────────────────────────────────┘
 ```
 
+**Guides:**
+- [Scaling Your Business](scaling.md) — From solo to agency growth roadmap
+
 ### Why Operations Matter
 
 **The Freelancer Trap:**

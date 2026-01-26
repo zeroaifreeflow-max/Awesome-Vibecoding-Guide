@@ -1,6 +1,16 @@
-# Clavix — CLEAR-Based PRD Generator 📋
+# Clavix — Prompt Engineering & PRD Framework 📋
+
+> **[GitHub Repository](https://github.com/ClavixDev/Clavix)** — Open source, free forever.
 
 Clavix is an open-source prompt engineering framework that transforms rough ideas into polished prompts, complete PRDs (Product Requirements Documents), and ready-to-implement task lists. Built on the academically-validated CLEAR methodology, it bridges the gap between initial concepts and production-ready implementation.
+
+**What Clavix does:**
+- **Prompt improvement** — Take vague ideas, output optimized prompts
+- **PRD generation** — Full product requirements with scope, tasks, acceptance criteria
+- **Skills system** — Extensible workflows for code review, planning, verification, and more
+- **Task tracking** — Generate tasks from PRDs and track implementation progress
+
+Works with Claude Code, Cursor, Windsurf, and any AI agent supporting slash commands.
 
 ## 🎯 Core Value Proposition
 
