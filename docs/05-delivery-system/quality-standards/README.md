@@ -659,11 +659,19 @@ This differentiates you from competitors and justifies your pricing.
 ---
 
 **Detailed Guides:**
+
 - [Accessibility Guide →](./accessibility.md) - WCAG compliance and inclusive design
 - [SEO Guide →](./seo.md) - Search engine optimization best practices
 - [Performance Guide →](./performance.md) - Speed optimization and Core Web Vitals
 - [Design Consistency Guide →](./design-consistency.md) - Preventing "vibe coded" appearance
 - [Quality Gates Checklist →](./quality-gates.md) - Pre-ship quality verification
+
+**Deep Dives (implementation-focused):**
+
+- [Performance Deep Dive →](./performance-deep-dive.md) - Practical optimization techniques and code examples
+- [Security Deep Dive →](./security-deep-dive.md) - Security hardening and best practices
+- [Testing Deep Dive →](./testing-deep-dive.md) - Testing strategies and automation
+- [UX Deep Dive →](./ux-deep-dive.md) - User experience patterns and improvements
 
 **Related Documentation:**
 - [Quality-Focused Prompts](../prompting/quality-focused-prompts.md) - AI prompts for professional output

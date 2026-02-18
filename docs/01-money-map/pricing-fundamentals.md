@@ -1,3 +1,12 @@
+---
+doc_type: guide
+domain: pricing
+streams: [websites, automations, micro-saas]
+keywords: [pricing, value-based, hourly-never, rates]
+related_docs: [01-money-map/pricing-strategies.md, 01-money-map/packaging-models.md, 02-websites-playbook/pricing-economics.md]
+token_estimate: 1107
+---
+
 # Pricing Fundamentals
 
 > Price based on value delivered, not hours worked. Never hourly.

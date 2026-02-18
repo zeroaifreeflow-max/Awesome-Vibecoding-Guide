@@ -1,3 +1,12 @@
+---
+doc_type: index
+domain: pricing
+streams: [websites, automations, micro-saas]
+keywords: [revenue, streams, overview, money-map]
+related_docs: [01-money-map/choosing-your-path.md, 01-money-map/pricing-fundamentals.md]
+token_estimate: 400
+---
+
 # The Money Map
 
 > How to make real money with vibecoding — not hype, but proven approaches.

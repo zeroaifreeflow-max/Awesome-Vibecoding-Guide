@@ -1,3 +1,15 @@
+---
+doc_type: playbook
+domain: delivery
+streams: [websites]
+keywords: [client, management, honesty, referral, transparency, communication]
+related_docs:
+  - 02-websites-playbook/client-acquisition.md
+  - 02-websites-playbook/maintenance.md
+  - 02-websites-playbook/pricing-economics.md
+token_estimate: 7600
+---
+
 # Client Management Guide
 
 Managing client relationships with honesty, transparency, and clear communication is the foundation of sustainable freelance vibecoding work. This guide covers the complete client lifecycle from initial contact to long-term maintenance.

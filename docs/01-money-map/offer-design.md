@@ -1,3 +1,12 @@
+---
+doc_type: guide
+domain: pricing
+streams: [websites, automations, micro-saas]
+keywords: [offer, productized, custom, scope, proposal]
+related_docs: [01-money-map/packaging-models.md, 01-money-map/pricing-fundamentals.md]
+token_estimate: 973
+---
+
 # Offer Design
 
 > A confused buyer doesn't buy. Make your offer crystal clear.

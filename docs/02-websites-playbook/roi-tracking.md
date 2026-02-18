@@ -1,3 +1,14 @@
+---
+doc_type: playbook
+domain: operations
+streams: [websites]
+keywords: [ROI, tracking, profit, tool-costs, metrics]
+related_docs:
+  - 02-websites-playbook/pricing-economics.md
+  - 02-websites-playbook/maintenance.md
+token_estimate: 7467
+---
+
 # ROI Tracking and Cost-Benefit Analysis
 
 The most expensive tool is rarely the most profitable tool. This guide helps you track return on investment (ROI) for your vibecoding toolset and make data-driven decisions about where to invest your money.

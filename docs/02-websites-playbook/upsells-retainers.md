@@ -1,3 +1,15 @@
+---
+doc_type: playbook
+domain: pricing
+streams: [websites]
+keywords: [upsells, retainers, add-ons, recurring]
+related_docs:
+  - 01-money-map/pricing-fundamentals.md
+  - 02-websites-playbook/pricing-economics.md
+  - 02-websites-playbook/maintenance.md
+token_estimate: 1067
+---
+
 # Upsells & Retainers
 
 You built the website. Now build recurring revenue.

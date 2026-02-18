@@ -7,7 +7,7 @@
 | Agent | Best For | Cost |
 |-------|----------|------|
 | **[Claude Code CLI](claude-code-cli.md)** | Primary agent, plan mode, multi-agent | BYOK |
-| **[AMP](ampcode.md)** | Free alternative, powerful | Free tier available |
+| **[AMP](#ampcode--free-version)** | Free alternative, powerful | Free tier available |
 | **[OpenCode](opencode.md)** | With oh-my-opencode extension | BYOK |
 | **[Antigravity](antigravity.md)** | Generous quotas | Free tier |
 
@@ -34,3 +34,31 @@ All agents support connecting your own API keys:
 - Or other OpenAI-compatible providers
 
 See individual tool pages for configuration.
+
+---
+
+## AmpCode — Free Version
+
+AmpCode offers a free tier that provides access to coding assistance with surprisingly robust features for a no-cost solution.
+
+### Key Strengths
+
+- **Free Tier Available**: No-cost access to core features
+- **MCP Server Support**: External tool integration capabilities
+- **Active Development**: Regular updates and improvements
+- **Community Support**: Growing user base and community resources
+- **Decent Performance**: Solid coding assistance for most tasks
+
+### Best Use Cases
+
+- Getting started with AI-assisted development
+- Small to medium projects
+- Learning and experimentation
+- Backup tool when main stack is unavailable
+
+### Limitations
+
+- Feature limitations compared to paid tiers
+- May have usage restrictions
+- Smaller community than established tools
+- Less documentation and learning resources

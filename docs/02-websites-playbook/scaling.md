@@ -1,3 +1,15 @@
+---
+doc_type: playbook
+domain: scaling
+streams: [websites]
+keywords: [scaling, growth, timeline, sites-per-month]
+related_docs:
+  - business-operations/scaling.md
+  - 02-websites-playbook/pricing-economics.md
+  - 02-websites-playbook/upsells-retainers.md
+token_estimate: 1600
+---
+
 # Scaling Your Website Business
 
 Going from 2 to 10 sites per month. What changes, what breaks, what matters.

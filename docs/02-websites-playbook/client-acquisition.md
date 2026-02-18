@@ -1,3 +1,16 @@
+---
+doc_type: playbook
+domain: acquisition
+streams: [websites]
+keywords: [clients, facebook, linkedin, google-maps, outreach, marketing]
+related_docs:
+  - 02-websites-playbook/client-management.md
+  - 02-websites-playbook/pricing-economics.md
+  - 03-automations-playbook/finding-clients.md
+  - 04-micro-saas-playbook/finding-clients.md
+token_estimate: 3333
+---
+
 # Client Acquisition: Finding and Closing Local Business Clients
 
 This guide covers the complete process of finding, approaching, and closing clients for your website business. Based on real commercial experience building sites for plumbers, electricians, barbers, and similar local businesses.

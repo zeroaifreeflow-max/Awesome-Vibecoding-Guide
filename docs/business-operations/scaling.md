@@ -1,3 +1,12 @@
+---
+doc_type: guide
+domain: scaling
+streams: [websites, automations, micro-saas]
+keywords: [scaling, phases, hiring, team, agency, growth, revenue-targets]
+related_docs: [02-websites-playbook/scaling.md, business-operations/README.md]
+token_estimate: 4667
+---
+
 # Scaling Your Vibecoding Business — From Solo to Agency
 
 > **The Growth Blueprint**: This guide provides a step-by-step roadmap for scaling your vibecoding business from a solo operation to a thriving agency. Learn when to hire, how to systemize, and what strategies will take you from $5k to $50k/month and beyond.

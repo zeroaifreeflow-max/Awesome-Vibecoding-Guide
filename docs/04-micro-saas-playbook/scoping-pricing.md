@@ -1,3 +1,15 @@
+---
+doc_type: playbook
+domain: pricing
+streams: [micro-saas]
+keywords: [pricing, scoping, replacement, time-value, subscription]
+related_docs:
+  - 01-money-map/pricing-fundamentals.md
+  - 02-websites-playbook/pricing-economics.md
+  - 03-automations-playbook/pricing-automations.md
+token_estimate: 1600
+---
+
 # Scoping & Pricing
 
 > Build the smallest thing that solves the problem. Charge based on value.

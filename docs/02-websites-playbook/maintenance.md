@@ -1,3 +1,16 @@
+---
+doc_type: playbook
+domain: pricing
+streams: [websites]
+keywords: [maintenance, recurring, retainer, updates, support]
+related_docs:
+  - 01-money-map/pricing-fundamentals.md
+  - 02-websites-playbook/pricing-economics.md
+  - 02-websites-playbook/upsells-retainers.md
+  - 02-websites-playbook/client-management.md
+token_estimate: 8800
+---
+
 # Website Maintenance Strategy
 
 Maintenance is where you build lasting client relationships and generate referrals. This guide covers a practical, honest approach to website maintenance that balances client satisfaction with sustainable profitability.

@@ -1,3 +1,16 @@
+---
+doc_type: playbook
+domain: pricing
+streams: [automations]
+keywords: [pricing, setup, retainer, automations]
+related_docs:
+  - 01-money-map/pricing-fundamentals.md
+  - 02-websites-playbook/pricing-economics.md
+  - 03-automations-playbook/automation-offers.md
+  - 04-micro-saas-playbook/scoping-pricing.md
+token_estimate: 1200
+---
+
 # Pricing Automations
 
 How to price automation projects without leaving money on the table.

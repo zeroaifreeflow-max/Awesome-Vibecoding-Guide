@@ -1,3 +1,12 @@
+---
+doc_type: guide
+domain: pricing
+streams: [websites, automations, micro-saas]
+keywords: [pricing, psychology, anchoring, ROI, advanced]
+related_docs: [01-money-map/pricing-fundamentals.md, 01-money-map/packaging-models.md]
+token_estimate: 5067
+---
+
 # Advanced Pricing Strategies — Maximizing Value & Profitability
 
 > **Beyond Hourly Rates**: This guide teaches you how to price your vibecoding services based on value delivered, not time spent. Master the art of pricing psychology, tiered packaging, and ROI-based proposals.

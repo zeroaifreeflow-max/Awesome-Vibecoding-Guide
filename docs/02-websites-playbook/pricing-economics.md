@@ -1,3 +1,17 @@
+---
+doc_type: playbook
+domain: pricing
+streams: [websites]
+keywords: [pricing, tiers, income, websites, economics]
+related_docs:
+  - 01-money-map/pricing-fundamentals.md
+  - 02-websites-playbook/upsells-retainers.md
+  - 02-websites-playbook/maintenance.md
+  - 03-automations-playbook/pricing-automations.md
+  - 04-micro-saas-playbook/scoping-pricing.md
+token_estimate: 4267
+---
+
 # Pricing & Economics
 
 ## Base Pricing Strategy

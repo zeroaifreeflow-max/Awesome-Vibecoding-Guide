@@ -1,3 +1,15 @@
+---
+doc_type: playbook
+domain: acquisition
+streams: [micro-saas]
+keywords: [clients, existing, upsell, complaints, pain-points]
+related_docs:
+  - 02-websites-playbook/client-acquisition.md
+  - 03-automations-playbook/finding-clients.md
+  - 04-micro-saas-playbook/scoping-pricing.md
+token_estimate: 3600
+---
+
 # Finding Micro-SaaS Clients — Upsell Strategies for Existing Clients
 
 > **The Client-First Advantage**: Micro-SaaS success comes from solving problems you've already seen in your existing client base. This guide shows you how to identify, propose, and close tiny software projects with clients who already know and trust you.

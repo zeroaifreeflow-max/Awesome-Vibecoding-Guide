@@ -1,3 +1,15 @@
+---
+doc_type: playbook
+domain: acquisition
+streams: [automations]
+keywords: [clients, linkedin, partnerships, outreach]
+related_docs:
+  - 02-websites-playbook/client-acquisition.md
+  - 03-automations-playbook/automation-offers.md
+  - 04-micro-saas-playbook/finding-clients.md
+token_estimate: 3467
+---
+
 # Finding Automation Clients — Targeted Acquisition Strategies
 
 > **Precision Prospecting**: Automation clients require a different approach than website clients. This guide covers proven strategies to find businesses that need and will pay for automation services.

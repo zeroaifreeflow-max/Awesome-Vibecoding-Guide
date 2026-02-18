@@ -1,3 +1,15 @@
+---
+doc_type: playbook
+domain: pricing
+streams: [automations]
+keywords: [offers, automation-types, intake, quoting, follow-up]
+related_docs:
+  - 01-money-map/pricing-fundamentals.md
+  - 03-automations-playbook/pricing-automations.md
+  - 03-automations-playbook/finding-clients.md
+token_estimate: 1067
+---
+
 # Automation Offers
 
 What you're actually selling when you sell automations.

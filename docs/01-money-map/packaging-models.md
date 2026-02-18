@@ -1,3 +1,12 @@
+---
+doc_type: guide
+domain: pricing
+streams: [websites, automations, micro-saas]
+keywords: [packaging, tiers, bronze, silver, gold, bundling]
+related_docs: [01-money-map/pricing-fundamentals.md, 01-money-map/offer-design.md]
+token_estimate: 3600
+---
+
 # Packaging Models — Creating Irresistible Service Bundles
 
 > **From Services to Products**: This guide shows you how to transform your vibecoding services into packaged offerings that sell themselves. Learn how to create tiered service packages, bundles, and subscriptions that increase your average transaction value and client satisfaction.

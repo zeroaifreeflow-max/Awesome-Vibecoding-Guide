@@ -1,3 +1,12 @@
+---
+doc_type: guide
+domain: pricing
+streams: [websites, automations, micro-saas]
+keywords: [choosing, path, streams, comparison, decision]
+related_docs: [01-money-map/README.md, 02-websites-playbook/README.md, 03-automations-playbook/README.md]
+token_estimate: 707
+---
+
 # Choosing Your Path
 
 > Pick one. Master it. Then expand.
